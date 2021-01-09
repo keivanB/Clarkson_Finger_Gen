@@ -6,3 +6,8 @@ Repository for Clarkson Fingerprint GAN models.
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/keivanB/Clarkson_Finger_Gen/blob/main/Gen_Samples.ipynb)
+
+
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
