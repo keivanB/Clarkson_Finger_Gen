@@ -1,4 +1,4 @@
-
+![Teaser image](./2018_logo-green-220x200.png)
 ![Teaser image](./CITeR-logo.png)
 
 # Clarkson Fingerprint Generator
