@@ -358,7 +358,7 @@ class Network:
             return_as_list: bool = False,
             print_progress: bool = False,
             minibatch_size: int = None,
-            num_gpus: int = 0,
+            num_gpus: int = 1,
             assume_frozen: bool = False,
             **dynamic_kwargs) -> Union[np.ndarray, Tuple[np.ndarray, ...], List[np.ndarray]]:
         """Run this network for the given NumPy array(s), and return the output(s) as NumPy array(s).
