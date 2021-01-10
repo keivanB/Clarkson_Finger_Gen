@@ -12,7 +12,7 @@ Try our Fingerprint Generator in Google Collab !
 
 ## Acknowledgements
 
-our code utilizes the official stylegan implementation https://github.com/NVlabs/stylegan
+our code utilizes the official SyleGAN implementation https://github.com/NVlabs/stylegan
 
 
 ```sh
