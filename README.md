@@ -1,3 +1,7 @@
+
+![Teaser image](./CITeR-logo.png.png)
+**Picture:** *These people are not real &ndash; they were produced by our generator that allows control over different aspects of the image.*
+
 # Clarkson Fingerprint Generator
 
 Repository for Clarkson Fingerprint GAN models.
