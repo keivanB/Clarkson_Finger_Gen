@@ -1,4 +1,4 @@
-# Fingerprint_synthesize
+# Clarkson Fingerprint Generator
 
 Repository for Clarkson Fingerprint GAN models.
 
