@@ -5,6 +5,8 @@
 
 Official Repository for Clarkson Fingerprint GAN models.
 
+Paper: https://arxiv.org/abs/2105.10403
+
 
 ## Fingerprint Generator
 
