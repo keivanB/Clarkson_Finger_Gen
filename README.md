@@ -24,7 +24,7 @@ Contact: Bahmank@Clarkson.edu
 
 
 ## Upcoming updates:
-a windows executable version of CFG
+CVG-V2 is comming soon!
 
 ### Acknowledgements
 
