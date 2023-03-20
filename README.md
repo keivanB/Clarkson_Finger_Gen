@@ -5,6 +5,9 @@
 
 Official Repository for Clarkson Fingerprint GAN models.
 
+CFG-V2 is coming soon.
+The TF2 version of the codes will be released soon.
+
 Paper: https://arxiv.org/abs/2105.10403
 
 
@@ -20,7 +23,7 @@ You can try our Fingerprint Generator in Google Collab !
 You can donwlad 50K of our synthetic fingerprints:
 https://drive.google.com/file/d/1KQUjnol9JjYQtx6D0eVN6mfUs91eWcS3/view?usp=sharing
 
-Contact: Bahmank@Clarkson.edu
+Contact: keivan.bahmani@gmail.com
 
 
 ## Upcoming updates:
